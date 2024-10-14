@@ -1,0 +1,40 @@
+{
+  "Printer": [
+    {
+      "IdPrinter": 1,
+      "Nama": "HP LaserJet Pro M15w",
+      "Tipe": "Laser",
+      "Kecepatan": "18 ppm",
+      "Konektivitas": "WiFi, USB",
+      "Toner": "HP 48A",
+      "Harga": 1200000
+    },
+    {
+      "IdPrinter": 2,
+      "Nama": "Epson EcoTank L3150",
+      "Tipe": "Inkjet",
+      "Kecepatan": "10 ppm",
+      "Konektivitas": "WiFi, USB",
+      "Toner": "Epson Ink Bottle",
+      "Harga": 2500000
+    },
+    {
+      "IdPrinter": 3,
+      "Nama": "Canon PIXMA G2010",
+      "Tipe": "Inkjet",
+      "Kecepatan": "8.8 ppm",
+      "Konektivitas": "WiFi, USB",
+      "Toner": "Canon GI-790",
+      "Harga": 2200000
+    },
+    {
+      "IdPrinter": 4,
+      "Nama": "Brother HL-L2350DW",
+      "Tipe": "Laser",
+      "Kecepatan": "32 ppm",
+      "Konektivitas": "WiFi, USB",
+      "Toner": "Brother TN-730",
+      "Harga": 1800000
+    }
+  ]
+}
